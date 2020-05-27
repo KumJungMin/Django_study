@@ -30,6 +30,7 @@ app은 프로젝트의 구성단위, 쉽게 말해 앱들이 모인 게 프로�
 (1)`app`이름으로 된 폴더에 `templates`라는 폴더에 직접 만든다.
 앱을 만들었다고 해서 자동으로 실행되는 게 아니라, 
 프로젝트 폴더의 `settings.py`에서 설정해야한다.
+
 <img src="https://blogfiles.pstatic.net/MjAyMDA1MjdfMjYg/MDAxNTkwNTYyNDQxOTQx.NPvtOULO_ONTVMpXvCJ8KTvoWyNDRTB_lE9YxYRwVzAg.tHZgv06rajETQ8AEtps_vqH9QNrKSn8lhPpwfvnsi_Yg.PNG.rmawjdals/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-05-27_%EC%98%A4%ED%9B%84_3.51.31.png" width="55%"/>
 
 <img src="https://blogfiles.pstatic.net/MjAyMDA1MjdfMzMg/MDAxNTkwNTYyNDQxOTU4.B3Cb5kYOVkwnxs-2pswJqDEc1Seg5KA6nthneqsSOwsg.Zka9iGyd5whkqLErXzxDqNs9VH0fCa3gBmu1afIT4tAg.PNG.rmawjdals/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-05-27_%EC%98%A4%ED%9B%84_3.51.43.png" width="55%"/>
@@ -42,7 +43,8 @@ app은 프로젝트의 구성단위, 쉽게 말해 앱들이 모인 게 프로�
 <br/>
 
 #### (3)`url.py`에 내가 만든 html이 어떤 url 입력시 뜨게 할지 결정하는 코드를 쓴다.
-이때, `myapp>views.py`에 있는 `home함수`를 쓸거니까, `myapp.views`를 `import`한다.<br/>
+이때, `myapp>views.py`에 있는 `home함수`를 쓸거니까, `myapp.views`를 `import`한다.
+<br/>
 
 <img src="https://postfiles.pstatic.net/MjAxOTAxMTdfNjYg/MDAxNTQ3NzA4MTUxMjUy.0Z0yVNJPzIiBa6LMZnnTAyGzCG460pFVd6YmcV7Asscg.ZPugWbUKdwwxgU2ba-PXCqsVkcObhxV5X7xSOIRiXGYg.PNG.rmawjdals/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2019-01-15_%EC%98%A4%ED%9B%84_3.00.47.png?type=w580" width="55%"/>
 <img src="https://postfiles.pstatic.net/MjAxOTAxMTdfMjc0/MDAxNTQ3NzA4MjM4OTYx.5F-0nABqK1eEbyoy18B07vVgEY4VKshN3t4lojfY8GIg.ERG35o438o3Oe0G9nBIE3KBCPt1k3ZUFNVRnLEpxCuQg.PNG.rmawjdals/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2019-01-17_%EC%98%A4%ED%9B%84_3.57.12.png?type=w580" width="55%"/>
@@ -53,6 +55,7 @@ app은 프로젝트의 구성단위, 쉽게 말해 앱들이 모인 게 프로�
 마지막으로 터미널에 `python manage.py runserver`를 쳐서 서버를 킨다.
 
 ▶터미널에 뜨는 주소에 들어가면 화면을 볼 수 있다.
-
+<br/><br/><br/><br/>
 <hr/>
+
 - 모든 이미지는 제 블로그에 있는 이미지를 참조했습니다.
