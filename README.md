@@ -1,5 +1,6 @@
 # 0. 장고 기본환경 설정하기
-___
+<br/>
+
 > 장고를 쓰기 위해선 가상환경을 설정해야한다?
 
 장고는 파이썬으로 웹을 구현하기 필요한 웹 프레임워크(뼈대)이다.
@@ -147,3 +148,15 @@ $ pip3 install django
 
 이렇게 하면 가상환경 설정과 해당 가상환경에 장고설치가 완료됩니다.
 이제 장고를 쓸 수 있음.
+<br/>
+<br/>
+<br/>
+
+
+___
+- 목차
+
+[1] <a href="https://github.com/KumJungMin/Django_study/blob/master/1-%EC%9E%A5%EA%B3%A0%EC%9D%98%20%EC%8B%9C%EC%9E%91:%20hello%20world%20%ED%99%94%EB%A9%B4%EC%97%90%20%EB%9D%84%EC%9A%B0%EA%B8%B0.md">hello world띄우기</a>
+
+
+___
