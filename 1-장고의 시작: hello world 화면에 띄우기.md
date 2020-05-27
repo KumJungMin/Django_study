@@ -55,7 +55,20 @@ app은 프로젝트의 구성단위, 쉽게 말해 앱들이 모인 게 프로�
 마지막으로 터미널에 `python manage.py runserver`를 쳐서 서버를 킨다.
 
 ▶터미널에 뜨는 주소에 들어가면 화면을 볼 수 있다.
-<br/><br/><br/><br/>
-<hr/>
 
-- 모든 이미지는 제 블로그에 있는 이미지를 참조했습니다.
+<br/><br/><br/>
+___
+- 목차
+
+[0] <a href="https://github.com/KumJungMin/Django_study/blob/master/README.md">장고기본환경설정</a>
+
+
+___
+
+
+
+<br/><br/><br/>
+
+모든 이미지는 제 블로그에 있는 이미지를 참조했습니다.
+
+
